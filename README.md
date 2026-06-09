@@ -78,6 +78,8 @@ I model and characterize nanomaterials using a multi-scale approach, from electr
   <a href="https://www.ks.uiuc.edu/Research/vmd/"><img src="https://assets.exxactcorp.com/img/global/logo/software/VMD-Logo.png" height="40" alt="VMD" title="Visual Molecular Dynamics (VMD)"></a>
   <img width="30" />
   <a href="https://jp-minerals.org/vesta/en/"><img src="https://jp-minerals.org/vesta/img/banner-logo.png" height="40" alt="VESTA" title="VESTA"></a>
+  <img width="30" />
+  <a href="https://phonopy.github.io/phonopy/"><img src="https://img.shields.io/badge/Phonopy-magenta?style=for-the-badge" height="40" alt="Phonopy" title="Phonopy"></a>
 </div>
 
 
