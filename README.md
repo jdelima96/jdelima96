@@ -64,14 +64,14 @@ I model and characterize nanomaterials using a multi-scale approach, from electr
   <img width="35" />
   <a href="https://gpumd.org"><img src="https://gpumd.org/_static/logo.png" height="40" alt="GPUMD" title="GPUMD"></a>
   <img width="35" />
-  <a href="https://docs.deepmodeling.com/projects/deepmd/en/master/index.html"><img src="https://docs.deepmodeling.com/projects/deepmd/en/master/_static/logo-dark.svg" height="40" alt="DeepMD-kit" title="DeepMD-kit"></a>
+  <a href="https://docs.deepmodeling.com/projects/deepmd/en/stable/"><img src="https://docs.deepmodeling.com/projects/deepmd/en/stable/_static/logo-dark.svg" height="40" alt="DeepMD-kit" title="DeepMD-kit"></a>
 </div>
 
 <br />
 
 <div align="center">
   <!-- Visualization & Analysis Logos -->
-  <a href="https://ase-lib.org/"><img src="https://ase-lib.org/_static/ase256.png" height="40" alt="ASE" title="Atomic Simulation Environment (ASE)"></a>
+  <a href="https://ase-lib.org/"><img src="https://ase-lib.org/assets/images/ase256.png" height="40" alt="ASE" title="Atomic Simulation Environment (ASE)"></a>
   <img width="30" />
   <a href="https://ovito.org"><img src="https://ovito.org/_astro/ovito_logo_256.BAk4uGrH_Z1hIFve.webp" height="40" alt="OVITO" title="OVITO"></a>
   <img width="30" />
