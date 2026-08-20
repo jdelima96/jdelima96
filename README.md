@@ -62,7 +62,7 @@ I model and characterize nanomaterials using a multi-scale approach, from electr
 
 <div align="center">
   <!-- MD & ML Logos -->
-  <a href="https://lammps.org"><img src="https://www.lammps.org/movies/logo.gif" height="40" alt="LAMMPS" title="LAMMPS"></a>
+  <a href="https://lammps.org"><img src="https://www.lammps.org/images/lammps-logo.png" height="40" alt="LAMMPS" title="LAMMPS"></a>
   <img width="35" />
   <a href="https://gpumd.org"><img src="https://gpumd.org/_static/logo.png" height="40" alt="GPUMD" title="GPUMD"></a>
   <img width="35" />
