@@ -54,6 +54,8 @@ I model and characterize nanomaterials using a multi-scale approach, from electr
   <a href="https://vasp.at"><img src="https://www.vasp.at/images/logo.png" height="40" alt="VASP" title="VASP"></a>
   <img width="25" />
   <a href="https://siesta-project.org"><img src="https://siesta-project.org/siesta/SIESTA-logo-233x125.png" height="40" alt="SIESTA" title="SIESTA"></a>
+  <img width="25" />
+  <a href="https://dftbplus.org/index.html"><img src="https://dftbplus.org/_images/dftbplus-icon.png" height="40" alt="DFTB+" title="DFTB+"></a>
 </div>
 
 <br />
