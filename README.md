@@ -10,7 +10,7 @@ I model and characterize nanomaterials using a multi-scale approach, from electr
 
 ###
 
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4+_citations-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com.br/citations?user=8q0PxB0AAAAJ&hl=pt-BR)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com.br/citations?user=8q0PxB0AAAAJ&hl=pt-BR)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0003--2404--7789-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-2404-7789)
 [![Static Badge](https://img.shields.io/badge/CV-Lattes-6A0DAD)](http://lattes.cnpq.br/6979567573954862)
 
@@ -38,9 +38,6 @@ I model and characterize nanomaterials using a multi-scale approach, from electr
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=md" height="40" alt="markdown logo"  />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=fortran" height="40" alt="fortran logo"  />
 </div>
 
 <br />
